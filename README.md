@@ -1,0 +1,2 @@
+# proxy
+shadowrocket config file
